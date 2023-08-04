@@ -1,0 +1,18 @@
+{
+  "name": "bienesraices_node",
+  "version": "1.0.0",
+  "description": "Mi Primer Proyecto de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "Tailwind",
+    "MySQL",
+    "Sequelize"
+  ],
+  "author": "Juan de la Torra @codigoconjuan",
+  "license": "ISC"
+}
